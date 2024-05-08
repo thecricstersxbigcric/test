@@ -2,5 +2,5 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://imthebest.eu/keyapi/?show_id=78
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1715253958~acl=%2f*~data=hdntl~hmac=ca77e27260b61cc3005dea565fc4060666f4d714efae219bf63b08f7a9aeb2ac"}
+#EXTHTTP:{"cookie":"hdntl=exp=1715254116~acl=%2f*~data=hdntl~hmac=1a9760d34a1f85726b5ed9336fb756ebe9c5f399079c95e16e524588bcc6fe01"}
 https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
